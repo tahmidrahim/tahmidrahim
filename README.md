@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tahmid Rahim 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=5FADF7&width=500&lines=MERN+Stack+Developer;Front-end+Specialist;CMS+Developer;Clean+Code+%7C+Scalable+UI+%7C+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=5FADF7&width=500&lines=MERN+Stack+Developer;Front-end+Specialist;Clean+Code+%7C+Scalable+UI+%7C+Modern+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
